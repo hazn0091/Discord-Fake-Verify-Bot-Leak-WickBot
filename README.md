@@ -29,7 +29,7 @@ EN: This project was created only for good purposes and personal use. By using t
 ```
 #### Set up and invite your Bot.
 - EN: Create a bot // RU: Создайте бота [Discord Developer page](https://discord.com/developers/applications)
-- EN: Enable all instances in the "Bot" tab // RU: Включите все экземпляры на вкладке "Бот"
+- EN: Enable all intents in the "Bot" tab // RU: Включите все интенты на вкладке "Бот"
 
 #### Installation (Automated installation)
 ```
