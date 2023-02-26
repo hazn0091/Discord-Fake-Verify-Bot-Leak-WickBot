@@ -1,5 +1,0 @@
-{
-    "botToken": "TOKEN-HERE // ТОКЕН-БОТА",
-    "prefix": "PREFIX-HERE // ПРЕФИКС-БОТА",
-    "command_name": "COMMAND-NAME-HERE // НАЗВАНИЕ-КОМАНДЫ-СТАРТА"
-}
